@@ -2,11 +2,11 @@
 
 ## 项目概要
 
-1、本项目是基于Gin框架的GoWeb CLD风格的项目模板。CLD=Controller+Logic/Service+Dao
+- 1、本项目是基于Gin框架的GoWeb CLD风格的项目模板。CLD=Controller+Logic/Service+Dao
 
-2、 CLD的项目代码结构在Java、PHP等项目中比较常见，所以该模板比较适合习惯写Java、PHP的同学使用。 当然，项目代码的结构安排与开发语言无关，这与个人、团队的习惯有关。
+- 2、 CLD的项目代码结构在Java、PHP等项目中比较常见，所以该模板比较适合习惯写Java、PHP的同学使用。 当然，项目代码的结构安排与开发语言无关，这与个人、团队的习惯有关。
 
-3、欢迎使用和提出意见，感谢start和watch哦！
+- 3、欢迎使用和提出意见，感谢start和watch哦！
 
 ## 项目结构说明
 
@@ -46,3 +46,5 @@
 - 6.点赞
   
     
+## 其他
+后续会推出比较简洁的CS模式，CS模式开发速度会更快，敬请关注。
