@@ -31,11 +31,18 @@
 
 
 ## 程序启动
-- 1、克隆或拉取最新代码
-- 2、删除go.mod、go.sum文件（如果存在的话）
-- 3、在项目里依次执行以下命令： 
+- 1.克隆或拉取最新代码
+- 2.删除go.mod、go.sum文件（如果存在的话）
+- 3.更改配置
+  - 更改配置文件(conf/config.yaml)
+  - 进入 main.go 配置正确的配置文件路径
+- 4.更新依赖： 
   - go mod init GoWeb_Template_CLD (初始化go modules)
   - go mod tidy (更新依赖)
+  
+- 5.启动
   - go run main (执行程序)
+  
+- 6.点赞
   
     
