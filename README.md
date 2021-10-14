@@ -1,10 +1,14 @@
 # GoWeb_Template_CLD
 
+一款集成常用组件和工具的goWeb模板！！！
+
 ## 项目概要
 
-- 1、本项目是基于Gin框架的GoWeb CLD风格的项目模板。CLD=Controller+Logic/Service+Dao
+- 1、本项目是基于Gin框架的GoWeb CLD风格的项目模板。
+  - CLD=Controller+Logic/Service+Dao
+  - CLD的项目代码结构在Java、PHP等项目中比较常见，所以该模板比较适合习惯写Java、PHP的同学使用。 当然，项目代码的结构安排与开发语言无关，这与个人、团队的习惯有关。
 
-- 2、 CLD的项目代码结构在Java、PHP等项目中比较常见，所以该模板比较适合习惯写Java、PHP的同学使用。 当然，项目代码的结构安排与开发语言无关，这与个人、团队的习惯有关。
+- 2、本模板集成常用的工具、组件。包括：MySQL、Redis、配置文件热加载、雪花算法、日志、鉴权等
 
 - 3、欢迎使用和提出意见，感谢start和watch哦！
 
