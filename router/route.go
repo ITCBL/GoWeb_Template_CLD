@@ -1,13 +1,11 @@
 package router
 
 import (
+	"GoWeb_Template_CLD/common/logger"
 	"GoWeb_Template_CLD/common/middlewares"
 	"GoWeb_Template_CLD/controller"
-	"time"
-
-	//_ "GoWeb_Template_CLD/docs" // 千万不要忘了导入把你上一步生成的docs
-	"GoWeb_Template_CLD/common/logger"
 	"net/http"
+	"time"
 
 	"github.com/gin-gonic/gin"
 )
